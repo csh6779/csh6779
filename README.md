@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=welcome%20to%20my%20lab%F0%9F%A4%97)
 
  ## 👀 About Me
-  #### :raising_hand: I am a C# developer from South Korea.<br/>
+  #### :raising_hand: I am a student from South Korea.<br/>
   #### :fire: I aim to become a C# developer.<br/>
   #### :mortar_board: Currently pursuing a Bachelor's degree in Computer Engineering, Hansei University 
  <br/>
