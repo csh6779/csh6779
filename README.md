@@ -10,11 +10,18 @@
 ## 🧱 Tech Stack
 ### Language
 <!--C#-->
-<img src="https://img.shields.io/badge/CSharp-A179DC?style=flat-square&logo=.NET&logoColor=white"/>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <!--Python-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--HTML5-->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<!--Linux-->
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!--MySQL-->
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Framework  
 <!--unity-->
